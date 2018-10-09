@@ -1,0 +1,5 @@
+﻿  Denzil.cpp
+c:\users\me\downloads\advanced engines\opengl_sdl base project\denzil.cpp(20): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+c:\users\me\downloads\advanced engines\opengl_sdl base project\denzil.cpp(183): warning C4018: '<': signed/unsigned mismatch
+  OpenGL_SDL Base Project.vcxproj -> C:\Users\Me\Downloads\Advanced Engines\Debug\OpenGL_SDL Base Project.exe
